@@ -34,7 +34,8 @@ conda install -c anaconda numpy
 conda install -c anaconda scikit-learn
 conda install -c conda-forge joblib
 pip install pysam
-pip install request
+pip install future
+pip install requests
 pip install --upgrade InSilicoSeq
 conda deactivate
 
